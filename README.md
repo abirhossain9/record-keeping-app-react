@@ -1,5 +1,5 @@
 # Project Setup
 
---Clone repo
---npm install
---npm start
+-Clone repo
+-npm install
+-npm start
