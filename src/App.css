@@ -1,0 +1,14 @@
+.header {
+  background-color: #192a56;
+  color: white;
+  padding: 1.5%;
+}
+
+.count{
+  margin-top: 20%;
+  padding: 10%;
+}
+
+.btn{
+  margin-right: 5px;
+}
